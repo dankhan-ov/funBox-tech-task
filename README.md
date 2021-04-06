@@ -1,3 +1,3 @@
-# funBox-lvl2
+# FunBox tech task
 
 https://khanchenkov.github.io/funBox-tech-task/
